@@ -23,7 +23,7 @@ function NavBar() {
             <div className='w-11/12 middle_md:w-8/12 lg:w-11/12 gap-4 flex items-center justify-between h-full mx-auto'>
                     <BiMenu className='text-2xl lg:hidden' onClick={() => setOnHideMenu(!onHideMenu)}/>
                     <div className='py-2'>
-                        <img src="./Oc_logo.png" alt="logo" className='w-[150px] xl:w-[200px] cursor-pointer'/>
+                        <img src="https://open-classrom-home-clone.vercel.app/Oc_logo.png" alt="logo" className='w-[150px] xl:w-[200px] cursor-pointer'/>
                     </div>
                     <nav className='grow flex items-center h-full justify-end lg:justify-between  '>
                         <div className='hidden lg:flex'>
