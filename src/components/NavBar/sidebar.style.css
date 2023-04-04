@@ -1,0 +1,3 @@
+.sidebarWidth {
+    height: calc(100vw - 64px);
+}
